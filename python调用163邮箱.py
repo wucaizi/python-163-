@@ -12,7 +12,7 @@ def sentemail():
     # 设置发件服务器端口号。注意，这里有SSL和非SSL两种形式，现在一般是SSL方式
     sender = 'nideyouxiang@163.com'
     # 设置发件邮箱，一定要自己注册的邮箱
-    pwd = 'wudage'
+    pwd = '********'
     # 设置发件邮箱的授权码密码，根据163邮箱提示，登录第三方邮件客户端需要授权码
     receiver = '*******@qq.com'
     # 设置邮件接收人，可以是QQ邮箱
