@@ -14,7 +14,7 @@ def sentemail():
     # 设置发件邮箱，一定要自己注册的邮箱
     pwd = 'wudage'
     # 设置发件邮箱的授权码密码，根据163邮箱提示，登录第三方邮件客户端需要授权码
-    receiver = '798236031@qq.com'
+    receiver = '*******@qq.com'
     # 设置邮件接收人，可以是QQ邮箱
     body = '<h1>你已成功打卡</h1><p>zhongfs</p>'
     # 设置邮件正文，这里是支持HTML的
